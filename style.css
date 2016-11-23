@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-size: 12px;
+    outline: 0;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+}
+
+#char {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    font-size: 32px;
+    background: #efefef;
+    padding: 10px;
+}
+
+#refresh {
+    bottom: 0px;
+    right: 0px;
+    position: absolute;
+}
+
+#refresh button {
+    font-size: 32px;
+}
